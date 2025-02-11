@@ -172,4 +172,4 @@
 
 预览：
 
-<video src="https://github.com/user-attachments/assets/a2482b30-ee53-4faf-8a38-7f51d3a06a7a" controls width="100%"></video>
+https://github.com/user-attachments/assets/a87e2fac-3d3e-453f-8396-d62ba00a906f
