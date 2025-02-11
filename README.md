@@ -167,9 +167,83 @@
 
 # 视频演示
 
-图片协作编辑演示：
-[图片协作编辑高清视频链接](http://101.43.156.106:90/pictureteamedit.mp4)
+## 用户模块演示
+
+用户登陆、注册、注销
+
+管理员管理用户
+
+[用户操作高清视频链接]()
 
 预览：
 
-https://github.com/user-attachments/assets/a87e2fac-3d3e-453f-8396-d62ba00a906f
+
+https://github.com/user-attachments/assets/b62993c8-3013-4c9b-a321-2d0cc4d41a48
+
+
+
+
+## 图片基础演示
+
+公共图片的展示、权限的校验等功能
+
+用户图片上传、图片URL导入、图片下载
+
+管理员审核图片、图片管理、图片批量抓取创建
+
+[图片基础操作高清视频链接]()
+
+预览：
+
+
+https://github.com/user-attachments/assets/7f149bce-7d10-4663-902f-c21bc768280a
+
+
+
+
+## 图片进阶演示
+
+图片基本查看和搜索、图片颜色搜索、批量修改信息、图片编辑、AI扩图功能、私有空间图片搜索
+
+[图片进阶操作高清视频链接]()
+
+预览：
+
+
+
+https://github.com/user-attachments/assets/6467d974-9291-41b3-bec2-992481162f40
+
+
+
+## 空间模块演示
+
+用户开通私有空间、团队空间、个人图库分析
+
+管理员管理空间、空间图库分析
+
+[空间模块高清视频链接]()
+
+预览：
+
+
+
+https://github.com/user-attachments/assets/cd297df2-6cd5-46dc-bbe2-67df0de00470
+
+
+
+## 图片协作编辑演示
+
+[图片协作编辑高清视频链接]()
+
+预览：
+
+
+
+https://github.com/user-attachments/assets/c04273f2-7b60-4ea4-8f08-a6e7ce6d7050
+
+
+
+本项目还做了对私有空间、团队空间、图片访问及修改权限的校验。
+
+网站预览：
+
