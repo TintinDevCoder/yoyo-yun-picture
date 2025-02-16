@@ -255,7 +255,7 @@ https://github.com/user-attachments/assets/c04273f2-7b60-4ea4-8f08-a6e7ce6d7050
 
 本项目还做了对私有空间、团队空间、图片访问及修改权限的校验。
 
-网站预览：https://www.zzudsy.site/
+网站预览：https://www.zzudsy.site/  或   https://www.ddcoding.work/
 
 # 主要工作
 1. 基于自研的 Spring Boot 项目模板 + MyBatis Plus + MyBatis X 插件构建核心业务，实现用户、图片、空间等实体表的 CRUD 操作。
