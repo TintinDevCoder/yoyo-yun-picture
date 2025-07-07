@@ -1,0 +1,6 @@
+[submodule "yoyo-picture-backend"]
+	path = yoyo-picture-backend
+	url = https://github.com/TintinDevCoder/yun-pircture-backend.git
+[submodule "yoyo-picture-frontend"]
+	path = yoyo-picture-frontend
+	url = https://github.com/TintinDevCoder/yun-pircture-frontend.git
