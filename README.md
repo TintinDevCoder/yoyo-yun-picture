@@ -6,7 +6,7 @@
 
 1）所有用户都可以在平台公开上传和检索图片素材，快速找到需要的图片。可用作表情包网站、设计素材网站、壁纸网站等：
 
-![img](./assets/rwN0ueItVjwgP8BC.webp)
+![img](/assets/rwN0ueItVjwgP8BC.webp)
 
 2）管理员可以上传、审核和管理图片，并对系统内的图片进行分析：
 
