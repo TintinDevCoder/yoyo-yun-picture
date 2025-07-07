@@ -1,5 +1,3 @@
-<video src="https://github.com/user-attachments
-
 # 悠悠云图库项目介绍
 
 视频演示和预览地址在文末
@@ -191,7 +189,9 @@
 预览：
 
 
-https://github.com/user-attachments/assets/b62993c8-3013-4c9b-a321-2d0cc4d41a48
+
+https://github.com/user-attachments/assets/2d8ef120-d69d-4250-83cb-c0664dc159b4
+
 
 
 
@@ -209,7 +209,14 @@ https://github.com/user-attachments/assets/b62993c8-3013-4c9b-a321-2d0cc4d41a48
 预览：
 
 
-https://github.com/user-attachments/assets/7f149bce-7d10-4663-902f-c21bc768280a
+
+https://github.com/user-attachments/assets/9ff350e1-9beb-451a-9055-2a85b674f47b
+
+
+
+
+
+
 
 
 
@@ -224,7 +231,7 @@ https://github.com/user-attachments/assets/7f149bce-7d10-4663-902f-c21bc768280a
 
 
 
-https://github.com/user-attachments/assets/6467d974-9291-41b3-bec2-992481162f40
+[https://github.com/user-attachments/assets/6467d974-9291-41b3-bec2-992481162f40](https://github.com/user-attachments/assets/80ec51fa-0601-4cfd-8ef7-1438d61421d4)
 
 
 
@@ -240,7 +247,9 @@ https://github.com/user-attachments/assets/6467d974-9291-41b3-bec2-992481162f40
 
 
 
-https://github.com/user-attachments/assets/cd297df2-6cd5-46dc-bbe2-67df0de00470
+https://github.com/user-attachments/assets/87dfb721-5096-4e79-8b9d-a9a03677e483
+
+
 
 
 
@@ -252,13 +261,14 @@ https://github.com/user-attachments/assets/cd297df2-6cd5-46dc-bbe2-67df0de00470
 
 
 
-https://github.com/user-attachments/assets/c04273f2-7b60-4ea4-8f08-a6e7ce6d7050
+https://github.com/user-attachments/assets/4b411a73-b912-49c8-9473-f6fdd3d12a8f
+
 
 
 
 本项目还做了对私有空间、团队空间、图片访问及修改权限的校验。
 
-网站预览：https://www.zzudsy.site/  或   https://www.ddcoding.work/
+网站预览：https://www.ddcoding.work/
 
 # 主要工作
 
